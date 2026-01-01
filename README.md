@@ -1,69 +1,63 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mehedi+Hasan;Full+Stack+Developer;Tech+Enthusiast+%26+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mehedi+Hasan;Software+Developer+Trainee;Cloud+%26+DevOps+Engineer;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Passionate Developer | Building Cool Stuff | Always Learning 🌱</h3>
+<h3 align="center">☁️ Cloud & DevOps Enthusiast | Working on Real-World Solutions 🚀</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **personal projects** and learning new technologies
-- 🌱 I'm continuously learning **web development, DevOps, and modern frameworks**
-- 💡 I love building **practical tools** that solve real problems
-- 🎯 Goal: Contribute to open source and build impactful projects
-- ⚡ Fun fact: I track my learning journey with my own app!
+- 🔭 I'm currently working as a **Software Developer Trainee** in a big company
+- ☁️ Focused on **Cloud Engineering** and **DevOps** practices
+- 🌱 Learning **AWS, Java, Terraform, and cloud architecture**
+- 👥 Working in a **large DevOps team** on real-world cloud problems
+- 🎯 Goal: Become a **Cloud Engineer** and master cloud infrastructure
+- ⚡ Fun fact: I automate everything and track my learning journey!
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
-#### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+#### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+#### Languages & Scripting
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-#### Tools & Platforms
+#### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 🌱 Currently Learning
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedi-hasan-2426&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=06b6d4" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-hasan-2426&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi-hasan-2426&theme=tokyonight&hide_border=true&background=1a1b27&ring=6366f1&fire=06b6d4&currStreakLabel=06b6d4" alt="GitHub Streak" />
-</div>
+- ☁️ **AWS Cloud Services** - EC2, S3, Lambda, CloudFormation
+- ♨️ **Java** - Building robust backend applications
+- 🏗️ **Infrastructure as Code** - Terraform & CloudFormation
+- 🔄 **CI/CD Pipelines** - Automation and deployment strategies
+- 📊 **Monitoring & Logging** - Elastic Stack
 
 ---
 
-### 🎯 Featured Projects
+### � Professional Experience
 
-<div align="center">
-
-[![Tech Learning Tracker](https://github-readme-stats.vercel.app/api/pin/?username=mehedi-hasan-2426&repo=tech-learning-tracker&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=06b6d4)](https://github.com/mehedi-hasan-2426/tech-learning-tracker)
-
-</div>
-
-**🚀 [Tech Learning Tracker](https://github.com/mehedi-hasan-2426/tech-learning-tracker)** - A local-first web app to track learning progress and tech news
-- 🎨 Modern UI with vanilla JavaScript
-- 💾 100% local storage, no backend needed
-- 📊 Progress tracking and weekly stats
-- 🌐 [Live Demo](https://mehedi-hasan-2426.github.io/tech-learning-tracker/)
+**Software Developer Trainee** - Working on Cloud & DevOps solutions
+- 🏢 Working in a **large enterprise DevOps team**
+- ☁️ Solving real-world **cloud infrastructure problems**
+- 🔧 Hands-on experience with **AWS, Terraform, Docker, and Elastic Stack**
+- 🤝 Collaborating with senior engineers on production systems
+- 📈 Contributing to **infrastructure automation** and deployment pipelines
 
 ---
 
