@@ -1,93 +1,81 @@
-<!-- Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mehedi+Hasan;Software+Developer+Trainee;Cloud+%26+DevOps+Engineer;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=6366F1&center=true&vCenter=true&width=640&height=45&lines=Hi%2C+I'm+Mehedi+Hasan;Cloud+%26+DevOps+Engineer+in+the+making;AWS+%C2%B7+Terraform+%C2%B7+Python+%C2%B7+Java" alt="Hi, I'm Mehedi Hasan. Cloud and DevOps engineer in the making. AWS, Terraform, Python, Java." />
+
 </div>
 
-<h3 align="center">☁️ Cloud & DevOps Enthusiast | Working on Real-World Solutions 🚀</h3>
+Software Developer Trainee in an enterprise DevOps team, working on AWS infrastructure,
+Terraform and the Elastic Stack. I learn by shipping small, finished things rather than
+tutorials — most of what is below is deployed and running.
 
 ---
 
-### 👨‍💻 About Me
+## Featured
 
-- 🔭 I'm currently working as a **Software Developer Trainee** in a big company
-- ☁️ Focused on **Cloud Engineering** and **DevOps** practices
-- 🌱 Learning **AWS, Java, Terraform, and cloud architecture**
-- 👥 Working in a **large DevOps team** on real-world cloud problems
-- 🎯 Goal: Become a **Cloud Engineer** and master cloud infrastructure
-- ⚡ Fun fact: I automate everything and track my learning journey!
+### [Nimbus](https://github.com/mehedi-hasan-2426/aws-ccp-trainer) &nbsp;·&nbsp; [ccp.mehedihasanrahib.de](https://ccp.mehedihasanrahib.de)
+
+A practice trainer for the AWS Cloud Practitioner exam. 987 questions, each with an
+explanation for **every** option rather than just the correct one, so a wrong guess still
+teaches you what the distractor actually does.
+
+Static Hugo site with zero runtime dependencies, a strict Content Security Policy, and a
+verification suite of 10 security checks — plus mutation tests that deliberately break the
+repo to prove those checks actually fail when they should.
+
+![Hugo](https://img.shields.io/badge/Hugo-ff4088?style=flat-square&logo=hugo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## Infrastructure as Code
 
-#### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+Terraform projects built to understand AWS properly, one service at a time.
+
+| Project | What it builds |
+| --- | --- |
+| [terraform-brewery-api](https://github.com/mehedi-hasan-2426/terraform-brewery-api) | Lambda-backed API around the Open Brewery DB |
+| [triggering-aws-lambda-from-amazon-sqs](https://github.com/mehedi-hasan-2426/triggering-aws-lambda-from-amazon-sqs) | Event-driven Lambda consuming an SQS queue |
+| [terraform-asg-elb](https://github.com/mehedi-hasan-2426/terraform-asg-elb) | Auto Scaling Group behind a load balancer |
+| [terraform-win-ec2](https://github.com/mehedi-hasan-2426/terraform-win-ec2) | Windows EC2 provisioning |
+
+## Applications
+
+| Project | What it is |
+| --- | --- |
+| [books-api](https://github.com/mehedi-hasan-2426/books-api) | REST API design as a learning project |
+| [tech-learning-tracker](https://github.com/mehedi-hasan-2426/tech-learning-tracker) | Local-first app for tracking learning and saving articles |
+| [Worder](https://github.com/mehedi-hasan-2426/Worder) | German vocabulary trainer with spaced review |
+| [team-availability-planner](https://github.com/mehedi-hasan-2426/team-availability-planner) | Desktop planner built with PyQt6 |
+| [BMI-Health-Analyzer](https://github.com/mehedi-hasan-2426/BMI-Health-Analyzer) | Health monitoring tool in Python and CustomTkinter |
+
+---
+
+## Tools I work with
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-#### Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-#### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Currently going deeper on AWS certification, Terraform module design and CI/CD pipelines.
 
 ---
-
-### 🌱 Currently Learning
-
-- ☁️ **AWS Cloud Services** - EC2, S3, Lambda, CloudFormation
-- ♨️ **Java** - Building robust backend applications
-- 🏗️ **Infrastructure as Code** - Terraform & CloudFormation
-- 🔄 **CI/CD Pipelines** - Automation and deployment strategies
-- 📊 **Monitoring & Logging** - Elastic Stack
-
----
-
-### � Professional Experience
-
-**Software Developer Trainee** - Working on Cloud & DevOps solutions
-- 🏢 Working in a **large enterprise DevOps team**
-- ☁️ Solving real-world **cloud infrastructure problems**
-- 🔧 Hands-on experience with **AWS, Terraform, Docker, and Elastic Stack**
-- 🤝 Collaborating with senior engineers on production systems
-- 📈 Contributing to **infrastructure automation** and deployment pipelines
-
----
-
-### 📫 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehedi-hasan-2426)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
-
-### 💭 Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-  
-### 🌟 Thanks for visiting! Let's build something amazing together! 🚀
-
-![Visitor Count](https://profile-counter.glitch.me/mehedi-hasan-2426/count.svg)
+<!-- Replace the two below with your real links, then delete this comment.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-PERSONAL-EMAIL)
+-->
 
 </div>
