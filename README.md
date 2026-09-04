@@ -14,8 +14,8 @@ resource "human" "mehedi" {
 
   currently {
     certifying = "AWS Cloud Practitioner"
-    building   = "Terraform modules that other people can actually read"
-    learning   = "German, one vocabulary review at a time"
+    building   = "small tools for problems I actually run into day to day"
+    learning   = "Java, currently by writing a REST API with it"
   }
 
   lifecycle {
@@ -27,7 +27,7 @@ resource "human" "mehedi" {
 
 > [!IMPORTANT]
 > **Nimbus is live** at **[ccp.mehedihasanrahib.de](https://ccp.mehedihasanrahib.de)** —
-> 987 AWS exam questions where *every* option is explained, not just the correct one.
+> 987 AWS Cloud Practitioner practice questions.
 
 ## What working in a DevOps team changed
 
