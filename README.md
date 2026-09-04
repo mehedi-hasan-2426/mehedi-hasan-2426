@@ -3,8 +3,8 @@
 </div>
 
 I work on AWS infrastructure in an enterprise DevOps team. Most of what I know came from
-building something small and finishing it, so this profile is written the way I spend my
-day.
+working closely with a strong team of cloud engineers on production systems, so this
+profile is written the way I spend my day.
 
 ```hcl
 resource "human" "mehedi" {
@@ -28,6 +28,27 @@ resource "human" "mehedi" {
 > [!IMPORTANT]
 > **Nimbus is live** at **[ccp.mehedihasanrahib.de](https://ccp.mehedihasanrahib.de)** —
 > 987 AWS Cloud Practitioner practice questions.
+
+## The day job
+
+```hcl
+module "day_job" {
+  source = "enterprise/cloud-platform-team"
+
+  azure_devops = {
+    repositories = "50+ maintained with the team"
+    pipelines    = "build, release and deployment across the estate"
+  }
+
+  aws_operations = [
+    "patching through scheduled maintenance windows",
+    "monitoring and alerting on production workloads",
+    "responding to security incidents",
+  ]
+
+  automation = ["PowerShell", "Bash", "pipeline templates", "SSM documents"]
+}
+```
 
 ## What working in a DevOps team changed
 
@@ -89,18 +110,11 @@ locals {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedi-hasan-2426&theme=github_dark" width="740" alt="GitHub activity summary" />
 </div>
 
-## Outputs
-
-```hcl
+<!-- Add when ready, then delete this comment:
 output "find_me" {
   value = {
-    github = "https://github.com/mehedi-hasan-2426"
-    live   = "https://ccp.mehedihasanrahib.de"
-  }
-}
-```
-
-<!-- Add when ready, then delete this comment:
     linkedin = "https://linkedin.com/in/YOUR-HANDLE"
     email    = "YOUR-PERSONAL-EMAIL"
+  }
+}
 -->
