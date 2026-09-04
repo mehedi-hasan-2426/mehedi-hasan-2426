@@ -25,22 +25,28 @@ resource "human" "mehedi" {
 }
 ```
 
-```console
-$ terraform plan
+> [!IMPORTANT]
+> **Nimbus is live** at **[ccp.mehedihasanrahib.de](https://ccp.mehedihasanrahib.de)** —
+> 987 AWS exam questions where *every* option is explained, not just the correct one.
 
-  # project.nimbus will be updated in-place
-  ~ resource "project" "nimbus" {
-        url          = "https://ccp.mehedihasanrahib.de"
-        questions    = 987
-      ~ explanations = "for the correct option" -> "for every option"
-    }
+## What changed this week
 
-  # skill.terraform will be updated in-place
-  ~ resource "skill" "terraform" {
-      ~ level = "writes configs" -> "writes modules"
-    }
+```diff
+# project.nimbus
+- explanations = "for the correct option"
++ explanations = "for every option"
+- hosting      = "localhost:1313"
++ hosting      = "ccp.mehedihasanrahib.de"
 
-Plan: 0 to add, 2 to change, 0 to destroy.
+# skill.terraform
+- level = "writes configs"
++ level = "writes modules"
+
+# certification.aws
+- status = "reading"
++ status = "practising 987 questions a day"
+
+Plan: 0 to add, 3 to change, 0 to destroy.
 ```
 
 ## Stack
@@ -56,21 +62,24 @@ locals {
 ## Built with Terraform
 
 | Repository | Provisions |
-| --- | --- |
-| [terraform-brewery-api](https://github.com/mehedi-hasan-2426/terraform-brewery-api) | Lambda-backed API over the Open Brewery DB |
-| [triggering-aws-lambda-from-amazon-sqs](https://github.com/mehedi-hasan-2426/triggering-aws-lambda-from-amazon-sqs) | Event-driven Lambda consuming an SQS queue |
-| [terraform-asg-elb](https://github.com/mehedi-hasan-2426/terraform-asg-elb) | Auto Scaling Group behind a load balancer |
-| [terraform-win-ec2](https://github.com/mehedi-hasan-2426/terraform-win-ec2) | Windows EC2 provisioning |
+| :--- | :--- |
+| **[terraform-brewery-api](https://github.com/mehedi-hasan-2426/terraform-brewery-api)** | `Lambda` + API over the Open Brewery DB |
+| **[triggering-aws-lambda-from-amazon-sqs](https://github.com/mehedi-hasan-2426/triggering-aws-lambda-from-amazon-sqs)** | `Lambda` triggered by an `SQS` queue |
+| **[terraform-asg-elb](https://github.com/mehedi-hasan-2426/terraform-asg-elb)** | `Auto Scaling Group` behind an `ELB` |
+| **[terraform-win-ec2](https://github.com/mehedi-hasan-2426/terraform-win-ec2)** | Windows `EC2` provisioning |
 
 ## Built because I wanted it to exist
 
 | Repository | What it does |
-| --- | --- |
-| [aws-ccp-trainer](https://github.com/mehedi-hasan-2426/aws-ccp-trainer) | **Nimbus** — 987 exam questions, each option explained rather than just the answer. Live at [ccp.mehedihasanrahib.de](https://ccp.mehedihasanrahib.de) |
-| [Worder](https://github.com/mehedi-hasan-2426/Worder) | German vocabulary trainer, built because I needed one |
-| [tech-learning-tracker](https://github.com/mehedi-hasan-2426/tech-learning-tracker) | Local-first tracker for what I have actually read |
-| [books-api](https://github.com/mehedi-hasan-2426/books-api) | REST API design, done properly rather than quickly |
-| [team-availability-planner](https://github.com/mehedi-hasan-2426/team-availability-planner) | Desktop planner in PyQt6 |
+| :--- | :--- |
+| **[aws-ccp-trainer](https://github.com/mehedi-hasan-2426/aws-ccp-trainer)** | **Nimbus** — 987 questions, every option explained. Zero dependencies, strict CSP, 10 security checks. **[Live ↗](https://ccp.mehedihasanrahib.de)** |
+| **[Worder](https://github.com/mehedi-hasan-2426/Worder)** | German vocabulary trainer, built because I needed one |
+| **[tech-learning-tracker](https://github.com/mehedi-hasan-2426/tech-learning-tracker)** | Local-first tracker for what I have actually read |
+| **[books-api](https://github.com/mehedi-hasan-2426/books-api)** | REST API design, done properly rather than quickly |
+| **[team-availability-planner](https://github.com/mehedi-hasan-2426/team-availability-planner)** | Desktop planner in `PyQt6` |
+
+> [!NOTE]
+> Every repository above is mine and finished enough to run. No forks, no tutorial clones.
 
 ## State
 
