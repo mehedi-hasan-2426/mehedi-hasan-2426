@@ -76,9 +76,20 @@ Plan: 0 to add, 4 to change, 0 to destroy.
 
 ```hcl
 locals {
-  infrastructure = ["AWS", "Terraform", "Docker", "Elastic Stack", "Linux"]
-  languages      = ["Python", "Java", "PowerShell", "Bash"]
-  shipping       = ["GitHub Actions", "Hugo", "Vercel"]
+  aws = [
+    "EC2", "S3", "Lambda", "SQS", "IAM", "CloudWatch",
+    "Systems Manager", "Auto Scaling", "Elastic Load Balancing",
+  ]
+
+  infrastructure = ["Terraform", "Docker", "Linux", "Windows Server", "Elastic Stack"]
+
+  pipelines = ["Azure DevOps", "GitHub Actions", "Vercel"]
+
+  languages = ["Python", "Java 17", "JavaScript", "HCL", "PowerShell", "Bash", "SQL"]
+
+  backend = ["Spring Boot", "Spring Security", "JPA", "JWT", "PostgreSQL", "Alembic"]
+
+  interfaces = ["Hugo", "PyQt6", "CustomTkinter"]
 }
 ```
 
@@ -98,7 +109,7 @@ locals {
 | **[aws-ccp-trainer](https://github.com/mehedi-hasan-2426/aws-ccp-trainer)** | **Nimbus** — 987 questions, every option explained. Zero dependencies, strict CSP, 10 security checks. **[Live ↗](https://ccp.mehedihasanrahib.de)** |
 | **[Worder](https://github.com/mehedi-hasan-2426/Worder)** | German vocabulary trainer, built because I needed one |
 | **[tech-learning-tracker](https://github.com/mehedi-hasan-2426/tech-learning-tracker)** | Local-first tracker for what I have actually read |
-| **[books-api](https://github.com/mehedi-hasan-2426/books-api)** | REST API design, done properly rather than quickly |
+| **[books-api](https://github.com/mehedi-hasan-2426/books-api)** | `Spring Boot` REST API with `JWT` auth, rate limiting and `JPA` over `PostgreSQL`. Containerised and deployed with `Terraform` |
 | **[team-availability-planner](https://github.com/mehedi-hasan-2426/team-availability-planner)** | Desktop planner in `PyQt6` |
 
 > [!NOTE]
