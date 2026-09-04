@@ -29,24 +29,26 @@ resource "human" "mehedi" {
 > **Nimbus is live** at **[ccp.mehedihasanrahib.de](https://ccp.mehedihasanrahib.de)** —
 > 987 AWS exam questions where *every* option is explained, not just the correct one.
 
-## What changed this week
+## What working in a DevOps team changed
 
 ```diff
-# project.nimbus
-- explanations = "for the correct option"
-+ explanations = "for every option"
-- hosting      = "localhost:1313"
-+ hosting      = "ccp.mehedihasanrahib.de"
+# how I ship
+- deploy = "click through the AWS console until it works"
++ deploy = "terraform apply, reviewed in a pull request"
 
-# skill.terraform
-- level = "writes configs"
-+ level = "writes modules"
+# how I write terraform
+- structure = "one long main.tf per project"
++ structure = "modules with inputs, outputs and a README"
 
-# certification.aws
-- status = "reading"
-+ status = "practising 987 questions a day"
+# how I handle secrets
+- secrets = "a config file I remembered to gitignore"
++ secrets = "environment variables, push protection on every repo"
 
-Plan: 0 to add, 3 to change, 0 to destroy.
+# how I know it works
+- testing = "it ran on my machine"
++ testing = "CI has to pass before anything merges"
+
+Plan: 0 to add, 4 to change, 0 to destroy.
 ```
 
 ## Stack
