@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/mehedi-hasan-2426/mehedi-hasan-2426/blob/main/banner.png?raw=true" alt="Mehedi Hasan - Cloud and DevOps Engineer" />
+  <img src="https://github.com/mehedi-hasan-2426/mehedi-hasan-2426/blob/main/banner.png?raw=true" alt="Mehedi Hasan - Trainee, DevOps and Cloud focus" />
 </div>
 
 I work on AWS infrastructure in an enterprise DevOps team. Most of what I know came from
@@ -26,7 +26,7 @@ resource "human" "mehedi" {
 ```
 
 > [!IMPORTANT]
-> **Nimbus is live** at **[ccp.mehedihasanrahib.de](https://ccp.mehedihasanrahib.de)** —
+> **Nimbus is live** at **[ccp.mehedihasanrahib.de](https://ccp.mehedihasanrahib.de)**:
 > 987 AWS Cloud Practitioner practice questions.
 
 ## The day job
@@ -113,7 +113,7 @@ locals {
 | **[team-availability-planner](https://github.com/mehedi-hasan-2426/team-availability-planner)** | Desktop planner in `PyQt6` |
 
 > [!NOTE]
-> Every repository above is mine and finished enough to run. No forks, no tutorial clones.
+> Every repository above is my own work. The Terraform repositories started as guided AWS exercises that I wrote and deployed myself.
 
 ## State
 
