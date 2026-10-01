@@ -99,7 +99,6 @@ locals {
 | :--- | :--- |
 | **[terraform-brewery-api](https://github.com/mehedi-hasan-2426/terraform-brewery-api)** | `Lambda` + API over the Open Brewery DB |
 | **[triggering-aws-lambda-from-amazon-sqs](https://github.com/mehedi-hasan-2426/triggering-aws-lambda-from-amazon-sqs)** | `Lambda` triggered by an `SQS` queue |
-| **[terraform-asg-elb](https://github.com/mehedi-hasan-2426/terraform-asg-elb)** | `Auto Scaling Group` behind an `ELB` |
 | **[terraform-win-ec2](https://github.com/mehedi-hasan-2426/terraform-win-ec2)** | Windows `EC2` provisioning |
 
 ## Built because I wanted it to exist
