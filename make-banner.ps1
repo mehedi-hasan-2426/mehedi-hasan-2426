@@ -30,7 +30,7 @@ $dim = New-Object System.Drawing.SolidBrush ([System.Drawing.Color]::FromArgb(15
 $firstWidth = $g.MeasureString('Mehedi', $fName).Width
 $g.DrawString('Mehedi', $fName, $white, 52, 50)
 $g.DrawString('Hasan', $fName, $accBrush, (52 + $firstWidth + 6), 50)
-$g.DrawString('Cloud & DevOps Engineer', $fRole, $dim, 60, 182)
+$g.DrawString('Trainee, DevOps & Cloud focus', $fRole, $dim, 60, 182)
 $g.DrawString('AWS  /  Terraform  /  Python  /  Java', $fSub, $accBrush, 62, 240)
 
 $out = Join-Path $PSScriptRoot 'banner.png'
